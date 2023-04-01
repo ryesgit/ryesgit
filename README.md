@@ -11,3 +11,4 @@ For academic-related subjects, you can reach out to me [here](mailto:1solimanlee
 I create personal projects! As this is my school account, I do not upload them here.
 
 Instead, my personal projects can be found [here](https://github.com/codenamerey).
+a
