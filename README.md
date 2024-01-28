@@ -1,5 +1,5 @@
 ### Rye's Git Code
-Hi! I am Lee, a first-year student majoring in Computer Engineering from the Polytechnic University of the Philippines.
+Hi! I am Lee, a sophomore majoring in Computer Engineering from the Polytechnic University of the Philippines.
 
 ## What For Is This Account?
 This account's main purpose is to be a repository of academic-related programs and content.
